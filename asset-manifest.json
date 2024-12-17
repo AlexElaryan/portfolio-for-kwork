@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-for-kwork/static/css/main.a1d66102.css",
-    "main.js": "/portfolio-for-kwork/static/js/main.31d8af5a.js",
+    "main.css": "/portfolio-for-kwork/static/css/main.24ceb667.css",
+    "main.js": "/portfolio-for-kwork/static/js/main.0d2670eb.js",
     "static/media/me.webp": "/portfolio-for-kwork/static/media/me.18c801c8e17960a29067.webp",
     "static/media/quote.jpg": "/portfolio-for-kwork/static/media/quote.decf0ef9a8d76e295cf2.jpg",
     "static/media/EncodeSansNarrow-100-Thin.ttf": "/portfolio-for-kwork/static/media/EncodeSansNarrow-100-Thin.86639a915083c2fe88b3.ttf",
@@ -9,11 +9,11 @@
     "static/media/portfolio-7.jpg": "/portfolio-for-kwork/static/media/portfolio-7.3071b5c16d134b497f64.jpg",
     "static/media/portfolio-8.jpg": "/portfolio-for-kwork/static/media/portfolio-8.1feb37a96f0556ceb508.jpg",
     "index.html": "/portfolio-for-kwork/index.html",
-    "main.a1d66102.css.map": "/portfolio-for-kwork/static/css/main.a1d66102.css.map",
-    "main.31d8af5a.js.map": "/portfolio-for-kwork/static/js/main.31d8af5a.js.map"
+    "main.24ceb667.css.map": "/portfolio-for-kwork/static/css/main.24ceb667.css.map",
+    "main.0d2670eb.js.map": "/portfolio-for-kwork/static/js/main.0d2670eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1d66102.css",
-    "static/js/main.31d8af5a.js"
+    "static/css/main.24ceb667.css",
+    "static/js/main.0d2670eb.js"
   ]
 }
