@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-for-kwork/static/css/main.188bbe36.css",
+    "main.js": "/portfolio-for-kwork/static/js/main.a7347d7f.js",
+    "static/media/me.webp": "/portfolio-for-kwork/static/media/me.18c801c8e17960a29067.webp",
+    "static/media/quote.jpg": "/portfolio-for-kwork/static/media/quote.decf0ef9a8d76e295cf2.jpg",
+    "static/media/EncodeSansNarrow-100-Thin.ttf": "/portfolio-for-kwork/static/media/EncodeSansNarrow-100-Thin.86639a915083c2fe88b3.ttf",
+    "static/media/Varela-Regular.ttf": "/portfolio-for-kwork/static/media/Varela-Regular.570866dec71d419a0b44.ttf",
+    "static/media/portfolio-7.jpg": "/portfolio-for-kwork/static/media/portfolio-7.3071b5c16d134b497f64.jpg",
+    "static/media/portfolio-8.jpg": "/portfolio-for-kwork/static/media/portfolio-8.1feb37a96f0556ceb508.jpg",
+    "index.html": "/portfolio-for-kwork/index.html",
+    "main.188bbe36.css.map": "/portfolio-for-kwork/static/css/main.188bbe36.css.map",
+    "main.a7347d7f.js.map": "/portfolio-for-kwork/static/js/main.a7347d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188bbe36.css",
+    "static/js/main.a7347d7f.js"
+  ]
+}
